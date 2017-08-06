@@ -10,3 +10,7 @@ Some more text.
 Some other text.
 
 ## How to Contribute
+
+## Copyright
+
+2017 Git. Training
