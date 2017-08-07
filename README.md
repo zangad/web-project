@@ -10,6 +10,7 @@ Some more text.
 Some other text.
 
 ## How to Contribute
+Check in code.
 
 ## Copyright
 
